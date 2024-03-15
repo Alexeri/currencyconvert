@@ -22,7 +22,7 @@ const Navbar = () => {
               </div>
               <div className="flex">
                 <ModeToggle />
-                <Link href="/">
+                <Link href="https://github.com/Alexeri/currencyconvert" target="_blank">
                 <Button size="icon" className="ml-2">
                   <Github className="h-[1.2rem] w-[1.2rem]"></Github>
                 </Button>

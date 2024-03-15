@@ -107,7 +107,7 @@ const MainComponents: FC<MainComponentsProps> = ({}) => {
   };
 
   return (
-    <div className="bg-background p-6 rounded-lg shadow-lg mb-20">
+    <div className="bg-background p-10 rounded-lg shadow-lg mb-20">
       <div className="grid md:grid-cols-3 gap-4">
         <div className="flex flex-col">
           <Label className="mb-1 text-lg">Amount</Label>
